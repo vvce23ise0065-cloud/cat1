@@ -33,7 +33,7 @@ apply and save
 build
 
 go to settings in jenkins-there select plugins
-there install -git plugin,maven integration plugin,slack notification
+there install -git plugin,maven integration plugin,pipeline plugin,slack notification
 create another new item and select (free style)click ok
 in congifaturation part there source code managment select-git put the reop link
 chane to main
